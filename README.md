@@ -6,14 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianjscardoso@gmail.com)
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianJame&theme=tokyonight" alt="Profile Summary"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
